@@ -1,2 +1,2 @@
 # NCTU_DIP_HW
-NCTU DIP HW
+Source code and Report to Digital Image Processing Class in NCTU.
